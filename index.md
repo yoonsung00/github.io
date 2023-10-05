@@ -20,6 +20,7 @@
 <br><br>
 # [관련 이미지 & 동영상]  
 -이미지  
-<img src="./img/image1.jpg"> <img src="./img/image2.jpg">  
+<img src="./img/image1.jpg" width="450px" height="300px"> 
+<img src="./img/image2.jpg" width="450px" height="300px">  
 -동영상
 (https://youtu.be/OH5NlNOIo7w)
