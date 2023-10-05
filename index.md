@@ -20,5 +20,5 @@
 <br><br>
 # [관련 이미지 & 동영상]  
 -이미지  
-<img src="./img/image1.jpg"><img src="./img/image2.jpg">  
+<img src="./img/image1.jpg"> <img src="./img/image2.jpg">  
 -동영상
