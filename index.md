@@ -152,22 +152,22 @@
 
 |연번|종류|오브젝트 이름|오브젝트 영문명|사용처|오브젝트 이미지|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|01|플레이어|닐|Nill|공통||
-|02|몬스터|로봇|Robot|스테이지 2 중간지점||
-|03|몬스터|비행기|Plane|스테이지 3 중간지점||
-|04|몬스터|새|Bird|스테이지 4 중간지||
-|05|몬스터|늑대|Wolf|스테이지 5 중간지점||
-|06|트랩|함정|Trap|공통||
-|07|보스|오류기계|ErrorBot|스테이지 1 최종지점||
-|08|보스|쓰레기로봇|TrashBot|스테이지 2 최종지점||
-|09|보스|전투기|CombatPlane|스테이지 3 최종지점||
-|10|보스|매|Falcon|스테이지 4 최종지점||
-|11|보스|인간|Human|스테이지 5 최종지점||
-|12|세이브포인트|저장|Save|공||
-|13|총알|총알|Bullet|'X'키 사용시||
-|14|UI|시작버튼|StartButton|게임 시작 시||
-|15|UI|설정|Setting|사용 시||
-|16|UI|재시작 버튼|RestartButton|'R'키 사용시||
+|01|플레이어|닐|Nill|공통|<img src="./img/image6_1.jpg" width="450px" height="300px">|
+|02|몬스터|로봇|Robot|스테이지 2 중간지점|<img src="./img/image6_2.jpg" width="450px" height="300px">|
+|03|몬스터|비행기|Plane|스테이지 3 중간지점|<img src="./img/image6_3.jpg" width="450px" height="300px">|
+|04|몬스터|새|Bird|스테이지 4 중간지|<img src="./img/image6_4.jpg" width="450px" height="300px">|
+|05|몬스터|늑대|Wolf|스테이지 5 중간지점|<img src="./img/image6_5.jpg" width="450px" height="300px">|
+|06|트랩|함정|Trap|공통|<img src="./img/image6_6.jpg" width="450px" height="300px">|
+|07|보스|오류기계|ErrorBot|스테이지 1 최종지점|<img src="./img/image6_7.jpg" width="450px" height="300px">|
+|08|보스|쓰레기로봇|TrashBot|스테이지 2 최종지점|<img src="./img/image6_8.jpg" width="450px" height="300px">|
+|09|보스|전투기|CombatPlane|스테이지 3 최종지점|<img src="./img/image6_9.jpg" width="450px" height="300px">|
+|10|보스|매|Falcon|스테이지 4 최종지점|<img src="./img/image6_10.jpg" width="450px" height="300px">|
+|11|보스|인간|Human|스테이지 5 최종지점|<img src="./img/image6_11.jpg" width="450px" height="300px">|
+|12|세이브포인트|저장|Save|공|<img src="./img/image6_12.jpg" width="450px" height="300px">|
+|13|총알|총알|Bullet|'X'키 사용시|<img src="./img/image6_13.jpg" width="450px" height="300px">|
+|14|UI|시작버튼|StartButton|게임 시작 시|<img src="./img/image6_14.jpg" width="450px" height="300px">|
+|15|UI|설정|Setting|사용 시|<img src="./img/image6_15.jpg" width="450px" height="300px">|
+|16|UI|재시작 버튼|RestartButton|'R'키 사용시|<img src="./img/image6_16.jpg" width="450px" height="300px">|
 
 <br>
 
@@ -566,7 +566,7 @@
 ## 9. [키보드 이벤트에 대한 흐름도]<a name='9'></a>
 
 <br>
-<img src="./img/KeyboardEvent.png" width="500">
+<img src="./img/Keyboard.png" width="500">
 <br>
 
 ## 10. [용어정리]<a name='10'></a>
@@ -648,17 +648,14 @@
 ## 11. [스토리보드]<a name='11'></a>
 
 <br>
-<img src="./img/스토리보드1.png" width="500">
+<img src="./img/Story1.png" width="500">
 <br>
-<img src="./img/스토리보드2.png" width="500">
+<img src="./img/Story2.png" width="500">
 <br>
-<img src="./img/스토리보드3.png" width="500">
+<img src="./img/Story3.png" width="500">
 <br>
-<img src="./img/스토리보드4.png" width="500">
+<img src="./img/Story4.png" width="500">
 <br>
-<img src="./img/스토리보드5.png" width="500">
-<br>
-<img src="./img/스토리보드6.png" width="500">
-<br>
+
 
 ## 12. [작업 결과]<a name='12'></a>
