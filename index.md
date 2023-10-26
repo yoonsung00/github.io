@@ -554,12 +554,18 @@
 ## 8. [시간별 흐름도 flowchart]<a name='8'></a>
 
 <br>
+<img src="./img/Flowchart.png" width="500">
+<br>
 
 ## 9. [키보드 이벤트에 대한 흐름도]<a name='9'></a>
 
 <br>
+<img src="./img/KeyboardEvent.png" width="500">
+<br>
 
 ## 10. [용어정리]<a name='10'></a>
+
+<br>
 
 <br>
 
@@ -579,60 +585,4 @@
 <img src="./img/스토리보드6.png" width="500">
 <br>
 
-## 12. [작업 결과](files/w09/index.md)<a name='12'></a>
-
-<br>
-<img src="./img/관련이미지1.png" width="500">
-<br>
-<img src="./img/관련이미지.png" width="500">
-<br>
-<img src="./img/대표이미지1.png" width="500">  
-<br>
-### 구현 1 주차 목표
-<br>
-- WASD로 Player 이동 구현
-<br>
-- 게임 타이틀 화면 작업
-<br>
-- 게임 시작 시 화면 작업
-<br>
-- 필요 asset 정리 및 적용
-<br>
-<br>
-### 구현 2 주차 목표
-- 플레이어 디자인 (여, 남) 제작
-<br>
-- 전체 맵 제작 후 붙이기
-<br>
-- 인벤토리 UI 구현
-<br>
-- 상점 UI
-<br>
-- 플레이어 스테미나 관련 UI
-<br>
-<br>
-### 구현 3 주차 목표
-<br>
-- NPC 대화
-<br>
-- 퀘스트 구현
-<br>
-- 게임 시작화면
-<br>
-- 1~2주차 스크립트 보안
-<br>
-- 농사 구현
-<br>
-<br>
-### 구현 4 주차 목표
-<br>
-- 1~3주차 스크립트 보안
-<br>
-- 게임 시작화면 보안
-<br>
-- 퀘스트 구현 보안
-<br>
-- 농사 구현
-<br>
-<br>
-<br>
+## 12. [작업 결과]<a name='12'></a>
