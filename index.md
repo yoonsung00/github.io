@@ -560,13 +560,13 @@
 ## 8. [시간별 흐름도 flowchart]<a name='8'></a>
 
 <br>
-<img src="./img/Flowchart.png" width="500">
+<img src="./img/Flowchart.jpg" width="500">
 <br>
 
 ## 9. [키보드 이벤트에 대한 흐름도]<a name='9'></a>
 
 <br>
-<img src="./img/Keyboard.png" width="500">
+<img src="./img/Keyboard.jpg" width="500">
 <br>
 
 ## 10. [용어정리]<a name='10'></a>
@@ -648,13 +648,18 @@
 ## 11. [스토리보드]<a name='11'></a>
 
 <br>
-<img src="./img/Story1.png" width="500">
+<img src="./img/Story1.jpg" width="500">
+우주와 지구가 보이는 배경화면으로 플레이어 Nill의 모습이 보이며 게임시작, 환경설정 버튼을 보여준다.
 <br>
-<img src="./img/Story2.png" width="500">
+<img src="./img/Story2.jpg" width="500">
+Nill이 함정 Trap을 피해 보스와 전투하며 전투에서 사망하지 않고 살아남을 시 스테이지가 클리어된다.
 <br>
-<img src="./img/Story3.png" width="500">
+<img src="./img/Story3.jpg" width="500">
+사망 시 R키를 누르면 게임이 재시작된다는 화면이 출력된다.
 <br>
-<img src="./img/Story4.png" width="500">
+<img src="./img/Story4.jpg" width="500">
+환경설정 창에서 소리를 조절 할 수 있는 화면.
+ESC를 누르면 환경설정 창이 열린다.
 <br>
 
 
